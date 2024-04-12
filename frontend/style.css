@@ -1,0 +1,9 @@
+*
+{
+  min-height: 100vh;
+  margin: 0;
+  background-image: url(download.jpeg);
+  background-size: 1500px 500px;
+  /* background-position: right;
+  background-attachment: fixed; */
+}
